@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CADENA_CONEXION" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=127.0.0.1;Port=5433;User Id=postgres;Password=12345;Database=chat;</Value>
+    </Setting>
+    <Setting Name="PROVEEDOR_Postgres" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Npgsql</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
